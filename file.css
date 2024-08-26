@@ -1,7 +1,11 @@
 body {
-    background-color:rgb(253, 215, 215); 
+    background-color:rgb(185, 185, 185); 
     font-family: sans-serif;
+    text-align: center;
 }
 .name{
     font-size: large;
+}
+.nigga{
+ color : red ;
 }
